@@ -10,4 +10,5 @@ You will find many folders with dates written on them. Inside each folder, there
 - Time
 - Link to my instagram page
 
+Also please note my date format is DD/MM/YY (NZ)
 
