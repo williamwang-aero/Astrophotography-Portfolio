@@ -10,5 +10,9 @@ You will find many folders with dates written on them. Inside each folder, there
 - Time
 - Link to my instagram page
 
+For timelapses/bigger files, please press the "view raw" button and it will begin a video download.
+
 Also please note my date format is DD/MM/YY (NZ)
+
+Thank you
 
