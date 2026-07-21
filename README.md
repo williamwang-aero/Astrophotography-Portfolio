@@ -8,6 +8,7 @@ You will find many folders with dates written on them. Inside each folder, there
 - Exposure time
 - Object names
 - Time
+- Personal Reflection about the images/videos I took
 - Link to my instagram page
 
 For timelapses/bigger files, please press the "view raw" button and it will begin a video download.
