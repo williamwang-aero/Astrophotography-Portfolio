@@ -9,9 +9,11 @@ This repository documents my journey into astrophotography and observational ast
 - Camera: Insta360 Ace Pro 2
 - Camera: iPhone 15
 
+This is so far as of 2026 July
+
 ## Repository Structure
 
-- Sessions/Images&Info
+- Date/Photos, README.md
 
 ## Observing Log
 
