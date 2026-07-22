@@ -1,19 +1,31 @@
-# Astrophotography-Portfolio
-This astrophotography portfolio contains all the pictures I've taken using my cameras and telescopes. It reflects my love for space and the universe, and I hope it will bring others wonder and curiosity to help them pusue what they really want. The time intervals between each session may vary due to exams or other factors.
+# 🌌 Astrophotography Portfolio
 
-# Folders
-You will find many folders with dates written on them. Inside each folder, there will be the images I took, and an information README.md sheet containing:
-- Equipment I used
+## About
+
+This repository documents my journey into astrophotography and observational astronomy. It serves as a record of my progress as I develop imaging, observation, and image processing skills.
+
+## Equipment
+
+- Camera: Insta360 Ace Pro 2
+- Camera: iPhone 15
+
+## Repository Structure
+
+- Sessions/Images&Info
+
+## Observing Log
+
+Each observing session includes:
+- Date
 - Location
-- Exposure time
-- Object names
-- Time
-- Personal Reflection about the images/videos I took
-- Link to my instagram page
+- Target
+- Exposure
+- Personal reflection
 
-For timelapses/bigger files, please press the "view raw" button and it will begin a video download.
+## Goals
 
-Also please note my date format is DD/MM/YY (NZ)
-
-Thank you
+- Improve my astrophotography skills
+- Build a consistent observing log
+- Learn more about the night sky
+- Track my progress over time
 
