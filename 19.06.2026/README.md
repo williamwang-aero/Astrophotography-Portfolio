@@ -1,4 +1,4 @@
-# 18/04/2026
+# 19/06/2026
 - Equipment: Insta360 Ace Pro 2 + Tripod + Iphone15
 - Location: Backyard
 - Exposure Time: 1h on insta360/10 sec on Iphone15
