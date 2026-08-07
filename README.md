@@ -1,4 +1,4 @@
-# 🌌 Astrophotography Portfolio
+# Astrophotography Portfolio
 
 ## About
 
@@ -30,4 +30,8 @@ Each observing session includes:
 - Build a consistent observing log
 - Learn more about the night sky
 - Track my progress over time
+
+## License
+
+This repository is intended as a personal learning portfolio. Feel free to browse the projects for inspiration.
 
